@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseTask</string>
+
+    <string name="no_app_to_perform">No Application found to perform camera action!</string>
+    <string name="failed_to_attach">Failed to attach selected file!</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+</resources>
